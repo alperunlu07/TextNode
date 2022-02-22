@@ -1,0 +1,14 @@
+{
+  "name": "Create TextNodes",
+  "version": "1.0.1",
+  "description": "Iterative TextNode Plugin",
+  "main": "code.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "@figma/plugin-typings": "^1.42.1"
+  }
+}
