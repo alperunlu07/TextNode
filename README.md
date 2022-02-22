@@ -1,4 +1,4 @@
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](/Frame.png?raw=true "Optional Title")
 
 # Figma Iterative TextNode Plugin
 
